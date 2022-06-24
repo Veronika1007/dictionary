@@ -10,7 +10,11 @@ export default function App() {
       <footer>
         {" "}
         Coded by Veronika, open-source on{" "}
-        <a href="https://github.com/Veronika1007/dictionary" target="_blank">
+        <a
+          href="https://github.com/Veronika1007/dictionary"
+          target="_blank"
+          rel="noreferrer"
+        >
           GitHub
         </a>
       </footer>
