@@ -7,7 +7,13 @@ export default function App() {
     <div className="App">
       <header>Dictionary</header>
       <Dictionary />
-      <footer> Coded by Veronika</footer>
+      <footer>
+        {" "}
+        Coded by Veronika, open-source on{" "}
+        <a href="https://github.com/Veronika1007/dictionary" target="_blank">
+          GitHub
+        </a>
+      </footer>
     </div>
   );
 }
