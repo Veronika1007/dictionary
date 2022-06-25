@@ -13,7 +13,8 @@ export default function Photos(props) {
                   <img
                     src={photo.src.landscape}
                     className="img-fluid"
-                    alt="Keyword"
+                    alt="Photos provided by Pexels"
+                    title="Photos provided by Pexels"
                   />
                 </a>
               </div>
