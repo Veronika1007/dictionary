@@ -1,0 +1,13 @@
+section {
+  background-color: #b3e8e5;
+  padding: 40px;
+  margin: auto;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  box-shadow: 3px 6px 2px 1px rgba(0, 0, 0, 0.2);
+  max-width: 800px;
+}
+
+h1 {
+  padding: 15px;
+}

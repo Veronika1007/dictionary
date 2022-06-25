@@ -1,7 +1,17 @@
 .App {
   text-align: center;
+  background-color: #82dbd8;
+  padding: 20px 0;
+  margin: 0;
 }
 
 ul {
   text-decoration: none;
+}
+
+@media (max-width: 900px) {
+  .App {
+    margin: 0px;
+    padding: 15px;
+  }
 }
